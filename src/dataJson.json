@@ -1,0 +1,209 @@
+{
+    "service_categories":[
+        {
+            "name":"Appliance Repair",
+            "services":612,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+
+        },
+        {
+            "name":"Repairs",
+            "services":113,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+        },
+        {
+            "name":"Wedding & Events",
+            "services":186,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_b99d7000.jpeg"            
+
+        },
+        {
+            "name":"Personal & More",
+            "services":298,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_6b858b60.png"
+
+        },
+        {
+            "name":"Business & Financing",
+            "services":549,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+
+
+        },
+        {
+            "name":"Law & Support",
+            "services":873,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+
+
+        },
+        {
+            "name":"Consultancy",
+            "services":125,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+
+        },
+        {
+            "name":"Education & Training",
+            "services":445,
+            "bg_image":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_b99d7000.jpeg"
+
+
+        }
+    ],
+    "featured_services":[
+        {
+            "name":"Lorem Ipsum",
+            "vendors":832,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+
+        },
+        {
+            "name":"Wedding & events",
+            "vendors":513,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_b99d7000.jpeg"
+        },
+        {
+            "name":"Party Planners",
+            "vendors":832,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+        },
+        {
+            "name":"Mehendi Artist",
+            "vendors":645,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_6b858b60.png"
+
+        },
+        {
+            "name":"Washing Machine",
+            "vendors":376,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+
+        },
+        {
+            "name":"AC Repair",
+            "vendors":645,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+        }
+    ],
+    "recommended_services":[  
+        {
+        "name":"Lorem Ipsum",
+        "vendors":832,
+        "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_7cf82030.png"
+        },
+        {
+            "name":"Wedding & events",
+            "vendors":513,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_b99d7000.jpeg"
+        },
+        {
+            "name":"Party Planners",
+            "vendors":832,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+        },
+        {
+            "name":"AC Repair",
+            "vendors":645,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+        },
+        {
+            "name":"TV Repair",
+            "vendors":645,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+        },
+        {
+            "name":"Mobile Repair",
+            "vendors":645,
+            "bg-img":"https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/categories/category_v2/category_181b7650.png"
+
+        }
+],
+    "top_vendors":[
+        {
+            "name":"Lo'real",
+            "vendor_image":"images/user-avatar-big-01.jpg",
+            "service_type":"Spa At Home",
+            "verified":false,
+            "description":[
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":5,
+            "hired_count":44,
+            "service_charge":60
+        },
+        {
+            "name":"Handmadx",
+            "vendor_image":"images/user-avatar-big-02.jpg",
+            "service_type":"Repairs",
+            "verified":false,
+            "description":[
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":5,
+            "hired_count":49,
+            "service_charge":70
+        },
+        {
+            "name":"Deluxe",
+            "vendor_image":"images/user-avatar-placeholder.png",
+            "service_type":"Repairs",
+            "verified":true,
+            "description":[
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":3.2,
+            "hired_count":45,
+            "service_charge":40
+        },
+        {
+            "name":"Reliance",
+            "vendor_image":"images/user-avatar-big-03.jpg",
+            "service_type":"Mobile Repair",
+            "verified":true,
+            "description":[
+                "things are done quick",
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":4.5,
+            "hired_count":45,
+            "service_charge":70
+        },
+        {
+            "name":"Sebastian Piccio",
+            "vendor_image":"images/user-avatar-placeholder.png",
+            "service_type":"CPU Repair",
+            "verified":false,
+            "description":[
+                "We got things covered!",
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":4.5,
+            "hired_count":45,
+            "service_charge":50
+        },
+        {
+            "name":"Svitlana Moseyanko",
+            "vendor_image":"images/user-avatar-placeholder.png",
+            "service_type":"CPU Repair",
+            "verified":true,
+            "description":[
+                "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line."
+            ],
+            "rating":5,
+            "hired_count":65,
+            "service_charge":70
+        }
+    ]
+}
